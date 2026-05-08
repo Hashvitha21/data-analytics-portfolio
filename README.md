@@ -201,17 +201,3 @@ The dashboard analyzes:
 
 ---
 
-# Repository Structure
-
-```bash
-project-folder/
-│
-├── sql_queries/
-│   ├── student_performance_analysis.sql
-│   └── pharmaceutical_sales_analysis.sql
-│
-├── images/
-│   ├── sales_profit_dashboard.png
-│   └── profit_dashboard.png
-│
-└── README.md
