@@ -148,7 +148,7 @@ The dashboard provides insights into:
 ---
 
 ## Dashboard Screenshot
-![Sales & Profit Dashboard](images/sales_profit_dashboard.png)
+![Sales Dashboard](sales-profit-dashboard.png)
 
 ---
 
@@ -182,7 +182,7 @@ The dashboard analyzes:
 ---
 
 ## Dashboard Screenshot
-![Profit Performance Dashboard](images/profit_dashboard.png)
+![Profit Dashboard](profit-performance-dashboard.png)
 
 ---
 
